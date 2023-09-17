@@ -11,8 +11,10 @@ Teamwork is one of my strengths, I always try to cooperate with my partners to r
 <div>
   <a href="https://www.linkedin.com/in/sergio-espejo-a792b91a2/">
     <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%231A69C7?logo=LinkedIn&labelColor=%231A69C7">
-   <a> 
-  <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23D34135?logo=gmail&labelColor=%23000">
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJTNHCXsSBRPBpbCFgzbnmPHBnQwsHjWttcsJRFwCDBdrtPFcwjTkkJvgWPvnsfKtjszDGB">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-%23D34135?logo=gmail&labelColor=%23000">
+  </a>  
 </div>
 
 ## A little bit about me
